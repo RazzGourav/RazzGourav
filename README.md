@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Gourav kumar ojha!
 👩🏻‍💻 Sophomore Software Engineer sharing about my journey <br/>
-👩🏻‍🎓 Studies [Computer Science](https://www.rungta.ac.in/) at the Rubgta College of Engineering and Technology Bhilai India<br/>
+👩🏻‍🎓 Studies [Computer Science](https://www.rungta.ac.in/) at the Rungta College of Engineering and Technology Bhilai India<br/>
 💭 Currently learning about DSA and  AI-ML!<br/>
 📧 Reach me at gouravojha777@gmail.com </br>
 
