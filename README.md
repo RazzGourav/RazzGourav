@@ -36,12 +36,39 @@
 ![](https://github-readme-stats.vercel.app/api?username=RazzGourav&theme=dark&show_icons=true&hide_border=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RazzGourav&theme=dark&show_icons=true&hide_border=true&layout=compact)<br/>
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RazzGourav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazzGourav&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RazzGourav&theme=tokyonight&hide_border=true" />
+</div>
+
 
 ![Visitcounter](https://profile-counter.glitch.me/RazzGourav/count.svg)
 
 
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+## 🪶 Badges
+
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:15px;">
+
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" height="100" />
+  </a>
+
+  <a href="https://github.com/users/RazzGourav/achievements/starstruck">
+    <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="100" height="100" />
+  </a>
+
+  <a href="https://github.com/users/RazzGourav/achievements/pull-shark">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="100" height="100" />
+  </a>
+
+  <a href="https://github.com/users/RazzGourav/achievements/yolo">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="100" height="100" />
+  </a>
+
+</div>
   
