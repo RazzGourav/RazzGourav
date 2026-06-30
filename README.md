@@ -2,7 +2,7 @@
   
 ![Header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Gourav%20Kumar%20Ojha&textBg=false&desc=AI-ML,%20GCP,%20RAG,%20LangChain,%20AI-Researcher&fontSize=60&animation=fadeIn&fontAlignY=36&descAlignY=55&fontColor=B2AEB3&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&width=800&lines=Pre-final+AI+Undergrad+at+RCET+Bhilai;Engineering+Intelligence+that+Thinks%2C+Beyond%2C+Code.)](https://github.com/RazzGourav)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&width=800&lines=final+AI+Undergrad+at+RCET+Bhilai;Engineering+Intelligence+that+Thinks%2C+Beyond%2C+Code.)](https://github.com/RazzGourav)
 
 
 [![Email](https://img.shields.io/badge/Email-kumargouravojha%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kumargouravojha@gmail.com)
