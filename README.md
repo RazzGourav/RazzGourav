@@ -51,8 +51,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=RazzGourav)
 
 
-## 🪶 Badges
-
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:15px;">
 
   <a href="https://gssoc.girlscript.tech/leaderboard">
